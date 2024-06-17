@@ -1,4 +1,4 @@
-
+<img src="https://img.shields.io/badge/STATUS-FINALIZADO-green" display="inline" >
 
 # Desafío de Consulta de Libros **APIBOOKS**
 # ApiBooks
